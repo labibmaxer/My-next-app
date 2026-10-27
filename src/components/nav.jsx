@@ -11,6 +11,13 @@ const Navbar = () => {
      <li><Link href="/about/dev">Developer</Link>
 
     </li>
+       <li><Link href="/about/blogs">Blogs</Link>
+
+    </li>
+      <li><Link href="/dashboard">Dashboard</Link>
+
+    </li>
+    
     </>
     return (
      <div className="navbar bg-base-100 shadow-sm">
