@@ -5,7 +5,12 @@ const Navbar = () => {
     <li><Link href="/about">About</Link>
 
     </li>
-    
+     <li><Link href="/about/contact">Contact</Link>
+
+    </li>
+     <li><Link href="/about/dev">Developer</Link>
+
+    </li>
     </>
     return (
      <div className="navbar bg-base-100 shadow-sm">
